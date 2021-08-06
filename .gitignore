@@ -69,6 +69,13 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+KartWheeled/Intermediate/
+KartWheeled/Saved/
+KartWheeled/Config/
+KartWheeled/Content/Materials/
+KartWheeled/Content/VehicleAdv/
+KartWheeled/Content/Vehicles/Meshes/
+KartWheeled/Content/Meshes/
 
 # Cache files for the editor to use
 DerivedDataCache/*
