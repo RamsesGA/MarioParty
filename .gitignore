@@ -77,6 +77,10 @@ MarioPartyGame/Content/Vehicle/
 MarioPartyGame/Saved/Config/
 MarioPartyGame/Saved/Crashes/
 MarioPartyGame/Saved/Autosaves/
+MarioPartyGame/Content/Megascans/
+MarioPartyGame/Content/Video/
+
+
 
 # Cache files for the editor to use
 DerivedDataCache/*
