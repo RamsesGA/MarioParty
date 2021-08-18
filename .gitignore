@@ -69,13 +69,14 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
-KartWheeled/Intermediate/
-KartWheeled/Saved/
-KartWheeled/Config/
-KartWheeled/Content/Materials/
-KartWheeled/Content/VehicleAdv/
-KartWheeled/Content/Vehicles/Meshes/
-KartWheeled/Content/Meshes/
+MarioPartyGame/Intermediate/
+MarioPartyGame/Config/
+MarioPartyGame/Content/Geometry/
+MarioPartyGame/Content/Textures/
+MarioPartyGame/Content/Vehicle/
+MarioPartyGame/Saved/Config/
+MarioPartyGame/Saved/Crashes/
+MarioPartyGame/Saved/Autosaves/
 
 # Cache files for the editor to use
 DerivedDataCache/*
